@@ -16,7 +16,7 @@ A named function defined in a module can be referenced by its name.
 pub fn main() {
   // Assign the function to a variable
   let f = add_one
-  
+
   // Invoke the function
   f(1) // -> 2
   f(2) // -> 3
