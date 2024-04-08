@@ -4,10 +4,10 @@
   ],
   "files": {
     "solution": [
-      "src/role_playing_game.gleam"
+      "src/bird_count.gleam"
     ],
     "test": [
-      "test/role_playing_game_test.gleam"
+      "test/bird_count_test.gleam"
     ],
     "exemplar": [
       ".meta/example.gleam"
@@ -18,7 +18,8 @@
     ]
   },
   "forked_from": [
-    "elm/role-playing-game"
+    "elixir/bird-count",
+    "fsharp/pizza-pricing"
   ],
-  "blurb": "Learn the Option type by designing game mechanics"
+  "blurb": "Learn about recursion by keeping track of how many birds visit your garden each day."
 }

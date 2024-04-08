@@ -6,7 +6,7 @@ To run the tests, run the command `gleam test` from within the exercise director
 
 ## Submitting your solution
 
-You can submit your solution using the `exercism submit src/role_playing_game.gleam` command.
+You can submit your solution using the `exercism submit src/wine_cellar.gleam` command.
 This command will upload your solution to the Exercism website and print the solution page's URL.
 
 It's possible to submit an incomplete solution which allows you to:
